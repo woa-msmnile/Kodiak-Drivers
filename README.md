@@ -1,5 +1,6 @@
 
-# Windows Driver pack for SM7125 Devices based on [SurfaceDuo-Drivers](https://github.com/WOA-Project/SurfaceDuo-Drivers/)
+# Windows Driver pack for SM7325 Devices.
+> The Drivers are got from [Qcom-Reference-Drivers](https://github.com/WOA-Project/Qualcomm-Reference-Drivers/)
 
 These driver files are not perfect, typos may exist, feel free to file an issue on GitHub in case you found any.
 
